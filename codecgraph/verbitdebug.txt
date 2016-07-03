@@ -1,0 +1,63 @@
+ 
+Blacklist:
+411111f0 400000f0 CD at Int ATAPI
+Removed Nodes: 0x12 0x17 0x1a 0x1b 0x1e 
+Checking 71c Associations
+
+Current Associations
+ 01471c10 = 1 
+ 01871c20 = 2 
+ 01971c2f = 2 
+ 01d71c2d = 2 
+ 02171c1f = 1 
+
+  Used associations = 1 2 2 2 1
+Unused associations = 3 4 5 6 7 8 9 a b c d e
+
+Correcting duplicate associations
+
+Checking if 1 already exists in: 2 2 2 1 
+   duplicate found - Is this the first time we've seen this association?
+   yes - ignoring
+Checking if 2 already exists in: 1 2 2 1 
+   duplicate found - Is this the first time we've seen this association?
+   yes - ignoring
+Checking if 2 already exists in: 1 2 2 1 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 3
+Checking if 2 already exists in: 1 2 3 1 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 4
+Checking if 1 already exists in: 1 2 3 4 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 5
+
+New 71c Associations
+ Before      After
+--------------------------------------------------
+01471c10   01471c10  01471d01  01471e13  01471f99
+01871c20   01871c20  01871d18  01871ea1  01871f04
+01971c2f   01971c30  01971d09  01971ea3  01971f99
+01d71c2d   01d71c40  01d71d9a  01d71e07  01d71f40
+02171c1f   02171c50  02171d10  02171e21  02171f04
+
+Reset 71d Misc to 0
+New 71d Associations
+ Before                After
+--------------------------------------------------
+01471d01   01471c10  01471d00  01471e13  01471f99
+01871d18   01871c20  01871d10  01871ea1  01871f04
+01971d09   01971c30  01971d00  01971ea3  01971f99
+01d71d9a   01d71c40  01d71d90  01d71e07  01d71f40
+02171d10   02171c50  02171d10  02171e21  02171f04
+
+Correct 71f 02 FP to 01
+New 71f Associations
+ Before                                    After
+--------------------------------------------------
+01471d01   01471c10  01471d00  01471e13  01471f90
+01871d18   01871c20  01871d10  01871ea1  01871f00
+01971d09   01971c30  01971d00  01971ea3  01971f90
+01d71d9a   01d71c40  01d71d90  01d71e07  01d71f40
+02171d10   02171c50  02171d10  02171e21  02171f00
+ 

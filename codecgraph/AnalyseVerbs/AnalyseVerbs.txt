@@ -1,0 +1,467 @@
+bad verb (0), 0xEEEFF0FA
+bad verb (0), 0xEEFF0F9F
+bad verb (0), 0xEFF0F9EF
+bad verb (0), 0xFF0F9EEF
+bad verb (0), 0xF0F9EEEF
+bad verb (0), 0xF9EEEFA
+bad verb (0), 0xF9EEEF9F
+bad verb (0), 0x9EEEF9EF
+bad verb (0), 0xEEEF9EEF
+bad verb (0), 0xEEF9EEFC
+bad verb (0), 0xEF9EEFBF
+bad verb (0), 0xF9EEFBEF
+bad verb (0), 0x9EEFBEF1
+bad verb (0), 0xEEFBEF12
+bad verb (0), 0xEFBEF125
+bad verb (0), 0xFBEF1252
+bad verb (0), 0xBEF1251F
+bad verb (0), 0xEF1251FC
+bad verb (0), 0xF1251FBF
+bad verb (0), 0x1251FBFC
+bad verb (0), 0x251FBFBF
+bad verb (0), 0x51FBFBFA
+bad verb (0), 0x1FBFBF9F
+bad verb (0), 0xFBFBF9EF
+bad verb (0), 0xBFBF9EFF
+bad verb (0), 0xFBF9EFF1
+bad verb (0), 0xBF9EFF11
+bad verb (0), 0xF9EFF113
+bad verb (0), 0x9EFF1138
+bad verb (0), 0xEFF1137F
+bad verb (0), 0xFF1137FC
+bad verb (0), 0xF1137FBF
+bad verb (0), 0x1137FBFC
+bad verb (0), 0x137FBFBF
+bad verb (0), 0x37FBFBFA
+bad verb (0), 0x7FBFBF9F
+bad verb (0), 0xFBFBF9EF
+bad verb (0), 0xBFBF9EFB
+bad verb (0), 0xFBF9EFAF
+bad verb (0), 0xBF9EFAEF
+bad verb (0), 0xF9EFAEFF
+bad verb (0), 0x9EFAEFF5
+bad verb (0), 0xEFAEFF51
+bad verb (0), 0xFAEFF510
+bad verb (0), 0xAEFF50FF
+bad verb (0), 0xEFF50FEF
+bad verb (0), 0xFF50FEEF
+bad verb (0), 0xF50FEEFF
+bad verb (0), 0x50FEEFEF
+bad verb (0), 0xFEEFEEF
+bad verb (0), 0xFEEFEEEF
+bad verb (0), 0xEFEEEEFB
+bad verb (0), 0xFEEEEFAF
+bad verb (0), 0xEEEEFAEF
+bad verb (0), 0xEEEFAEFF
+bad verb (0), 0xEEFAEFF0
+bad verb (0), 0xEFAEFEFF
+bad verb (0), 0xFAEFEFFF
+bad verb (0), 0xAEFEFFEF
+bad verb (0), 0xEFEFFEEF
+bad verb (0), 0xFEFFEEEF
+bad verb (0), 0xEFFEEEEF
+bad verb (0), 0xFFEEEEEF
+bad verb (0), 0xFEEEEEEF
+bad verb (0), 0xEEEEEEFF
+bad verb (0), 0xEEEEEFFC
+bad verb (0), 0xEEEEFFBF
+bad verb (0), 0xEEEFFBFA
+bad verb (0), 0xEEFFBF9F
+bad verb (0), 0xEFFBF9EF
+bad verb (0), 0xFFBF9EFE
+bad verb (0), 0xFBF9EFDF
+bad verb (0), 0xBF9EFDF0
+bad verb (0), 0xF9EFDEFF
+bad verb (0), 0x9EFDEFEF
+bad verb (0), 0xEFDEFEFE
+bad verb (0), 0xFDEFEFDF
+bad verb (0), 0xDEFEFDEF
+bad verb (0), 0xEFEFDEFE
+bad verb (0), 0xFEFDEFDF
+bad verb (0), 0xFDEFDEFC
+bad verb (0), 0xDEFDEFCA
+bad verb (0), 0xEFDEFC9F
+bad verb (0), 0xFDEFC9EF
+bad verb (0), 0xDEFC9EEF
+bad verb (0), 0xEFC9EEEF
+bad verb (0), 0xFC9EEEEF
+bad verb (0), 0xC9EEEEFC
+bad verb (0), 0x9EEEEFBF
+bad verb (0), 0xEEEEFBEF
+bad verb (0), 0xEEEFBEEF
+bad verb (0), 0xEFBEEEEF
+bad verb (0), 0xFBEEEEFB
+bad verb (0), 0xBEEEEFAF
+bad verb (0), 0xEEEEFAEF
+bad verb (0), 0xEEEFAEEF
+bad verb (0), 0xEEFAEEEF
+bad verb (0), 0xEFAEEEFE
+bad verb (0), 0xFAEEEFED
+bad verb (0), 0xAEEEFED2
+bad verb (0), 0xEEEFED25
+bad verb (0), 0xEEFED255
+bad verb (0), 0xEFED254F
+bad verb (0), 0xFED254EF
+bad verb (0), 0xED254EEF
+bad verb (0), 0xD254EEFE
+bad verb (0), 0x254EEFEE
+bad verb (0), 0x54EEFEDF
+bad verb (0), 0x4EEFEDF2
+bad verb (0), 0xEEFEDF25
+bad verb (0), 0xEFEDF255
+bad verb (0), 0xFEDF254F
+bad verb (0), 0xEDF254FB
+bad verb (0), 0xDF254FAF
+bad verb (0), 0xF254FAEF
+bad verb (0), 0x254FAEFE
+bad verb (0), 0x54FAEFE2
+bad verb (0), 0x4FAEFE25
+bad verb (0), 0xFAEFE255
+bad verb (0), 0xAEFE254F
+bad verb (0), 0xEFE254EF
+bad verb (0), 0xFE254EEF
+bad verb (0), 0xE254EEEF
+bad verb (0), 0x254EEEEF
+bad verb (0), 0x54EEEEFA
+bad verb (0), 0x4EEEEF9F
+bad verb (0), 0xEEEEF9FE
+bad verb (0), 0xEEEF9FDF
+bad verb (0), 0xEF9FDEF1
+bad verb (0), 0xF9FDEF11
+bad verb (0), 0x9FDEF119
+bad verb (0), 0xFDEF1190
+bad verb (0), 0xDEF11900
+bad verb (0), 0xEF118FFF
+bad verb (0), 0xF118FFEF
+bad verb (0), 0x118FFEFA
+bad verb (0), 0x18FFEF9F
+bad verb (0), 0x8FFEF9FE
+bad verb (0), 0xFFEF9FDF
+bad verb (0), 0xFEF9FDEF
+bad verb (0), 0xEF9FDEF1
+bad verb (0), 0xF9FDEF16
+bad verb (0), 0x9FDEF168
+bad verb (0), 0xFDEF1684
+bad verb (0), 0xDEF16840
+bad verb (0), 0xEF1683FF
+bad verb (0), 0xF1683FEF
+bad verb (0), 0x1683FEFA
+bad verb (0), 0x683FEF9F
+bad verb (0), 0x83FEF9EF
+bad verb (0), 0x3FEF9EEF
+bad verb (0), 0xFEF9EEF1
+bad verb (0), 0xEF9EEF14
+bad verb (0), 0xF9EEF144
+bad verb (0), 0x9EEF1440
+bad verb (0), 0xEEF143FF
+bad verb (0), 0xEF143FEF
+bad verb (0), 0xF143FEFA
+bad verb (0), 0x143FEF9F
+bad verb (0), 0x43FEF9EF
+bad verb (0), 0x3FEF9EEF
+bad verb (0), 0xFEF9EEF1
+bad verb (0), 0xEF9EEF14
+bad verb (0), 0xF9EEF144
+bad verb (0), 0x9EEF1440
+bad verb (0), 0xEEF143FF
+bad verb (0), 0xEF143FEF
+bad verb (0), 0xF143FEEF
+bad verb (0), 0x143FEEFE
+bad verb (0), 0x43FEEFDF
+bad verb (0), 0x3FEEFDEF
+bad verb (0), 0xFEEFDEF1
+bad verb (0), 0xEEFDEF10
+bad verb (0), 0xEFDEF108
+bad verb (0), 0xFDEF1080
+bad verb (0), 0xDEF10800
+bad verb (0), 0xEF107FFF
+bad verb (0), 0xF107FFEF
+bad verb (0), 0x107FFEEF
+bad verb (0), 0x7FFEEFE
+bad verb (0), 0x7FFEEFDF
+bad verb (0), 0xFFEEFDEF
+bad verb (0), 0xFEEFDEF8
+bad verb (0), 0xEEFDEF84
+bad verb (0), 0xEFDEF840
+bad verb (0), 0xFDEF8400
+bad verb (0), 0xDEF83FFF
+bad verb (0), 0xEF83FFEF
+bad verb (0), 0xF83FFEEF
+bad verb (0), 0x83FFEEFE
+bad verb (0), 0x3FFEEFDF
+bad verb (0), 0xFFEEFDEF
+bad verb (0), 0xFEEFDEEF
+bad verb (0), 0xEEFDEEEF
+bad verb (0), 0xEFDEEEFD
+bad verb (0), 0xFDEEEFD0
+bad verb (0), 0xDEEEFCFF
+bad verb (0), 0xEEEFCFEF
+bad verb (0), 0xEEFCFEEF
+bad verb (0), 0xEFCFEEFA
+bad verb (0), 0xFCFEEF9F
+bad verb (0), 0xCFEEF9FD
+bad verb (0), 0xFEEF9FCF
+bad verb (0), 0xEF9FCEEF
+bad verb (0), 0xF9FCEEF5
+bad verb (0), 0x9FCEEF56
+bad verb (0), 0xFCEEF566
+bad verb (0), 0xCEEF565F
+bad verb (0), 0xEEF565EF
+bad verb (0), 0xEF565EEF
+bad verb (0), 0xF565EEF1
+bad verb (0), 0x565EEF11
+bad verb (0), 0x65EEF113
+bad verb (0), 0x5EEF1133
+bad verb (0), 0xEEF1132F
+bad verb (0), 0xEF1132EF
+bad verb (0), 0xF1132EEF
+bad verb (0), 0x1132EEF1
+bad verb (0), 0x132EEF17
+bad verb (0), 0x32EEF170
+bad verb (0), 0x2EEF1700
+bad verb (0), 0xEEF16FFF
+bad verb (0), 0xEF16FFEF
+bad verb (0), 0xF16FFEEF
+bad verb (0), 0x16FFEEF2
+bad verb (0), 0x6FFEEF22
+bad verb (0), 0xFFEEF226
+bad verb (0), 0xFEEF2267
+bad verb (0), 0xEEF2266F
+bad verb (0), 0xEF2266EF
+bad verb (0), 0xF2266EEF
+bad verb (0), 0x2266EEF2
+bad verb (0), 0x266EEF28
+bad verb (0), 0x66EEF283
+bad verb (0), 0x6EEF2834
+bad verb (0), 0xEEF2833F
+bad verb (0), 0xEF2833EF
+bad verb (0), 0xF2833EEF
+bad verb (0), 0x2833EEF3
+bad verb (0), 0x833EEF34
+bad verb (0), 0x33EEF340
+bad verb (0), 0x3EEF3401
+bad verb (0), 0xEEF3400F
+bad verb (0), 0xEF3400EF
+bad verb (0), 0xF3400EEF
+bad verb (0), 0x3400EEF3
+bad verb (0), 0x400EEF39
+bad verb (0), 0xEEF396
+bad verb (0), 0xEEF3968
+bad verb (0), 0xEEF3967F
+bad verb (0), 0xEF3967EF
+bad verb (0), 0xF3967EEF
+bad verb (0), 0x3967EEF4
+bad verb (0), 0x967EEF45
+bad verb (0), 0x67EEF453
+bad verb (0), 0x7EEF4535
+bad verb (0), 0xEEF4534F
+bad verb (0), 0xEF4534EF
+bad verb (0), 0xF4534EEF
+bad verb (0), 0x4534EEF5
+bad verb (0), 0x534EEF51
+bad verb (0), 0x34EEF510
+bad verb (0), 0x4EEF5102
+bad verb (0), 0xEEF5101F
+bad verb (0), 0xEF5101EF
+bad verb (0), 0xF5101EEF
+bad verb (0), 0x5101EEF5
+bad verb (0), 0x101EEF56
+bad verb (0), 0x1EEF566
+bad verb (0), 0x1EEF5669
+bad verb (0), 0xEEF5668F
+bad verb (0), 0xEF5668EF
+bad verb (0), 0xF5668EEF
+bad verb (0), 0x5668EEF6
+bad verb (0), 0x668EEF62
+bad verb (0), 0x68EEF623
+bad verb (0), 0x8EEF6236
+bad verb (0), 0xEEF6235F
+bad verb (0), 0xEF6235EF
+bad verb (0), 0xF6235EEF
+bad verb (0), 0x6235EEF6
+bad verb (0), 0x235EEF68
+bad verb (0), 0x35EEF680
+bad verb (0), 0x5EEF6803
+bad verb (0), 0xEEF6802F
+bad verb (0), 0xEF6802EF
+bad verb (0), 0xF6802EFA
+bad verb (0), 0x6802EF9F
+bad verb (0), 0x802EF9FD
+bad verb (0), 0x2EF9FCF
+bad verb (0), 0x2EF9FCEF
+bad verb (0), 0xEF9FCEEF
+bad verb (0), 0xF9FCEEFA
+bad verb (0), 0x9FCEEF9F
+bad verb (0), 0xFCEEF9EF
+bad verb (0), 0xCEEF9EEF
+bad verb (0), 0xEEF9EEFA
+bad verb (0), 0xEF9EEF9F
+bad verb (0), 0xF9EEF9EF
+bad verb (0), 0x9EEF9EEF
+bad verb (0), 0xEEF9EEEF
+bad verb (0), 0xEF9EEEFF
+bad verb (0), 0xF9EEEFF0
+bad verb (0), 0x9EEEFEFF
+bad verb (0), 0xEEEFEFFF
+bad verb (0), 0xFEFFEF24
+bad verb (0), 0xEFFEF23F
+bad verb (0), 0xFFEF23EF
+bad verb (0), 0xFEF23EFC
+bad verb (0), 0xEF23EFCF
+bad verb (0), 0xF23EFCF0
+bad verb (0), 0x23EFCEFF
+bad verb (0), 0x3EFCEFF0
+bad verb (0), 0xFCEFF014
+bad verb (0), 0xCEFF0147
+bad verb (0), 0xEFF01471
+bad verb (0), 0xFF01471C
+<= Verb 1 =>
+01471C10
+Codec Addres: 0
+Node ID: 20
+Sequence: 0
+Default Association: 1
+
+<= Verb 2 =>
+01471D40
+Codec Addres: 0
+Node ID: 20
+Misc: Jack Detect
+Color: Green
+
+<= Verb 3 =>
+01471E11
+Codec Addres: 0
+Node ID: 20
+Connection Type: 1/8" Stereo/Mono
+Default Device: Speaker
+
+<= Verb 4 =>
+01471F01
+Codec Addres: 0
+Node ID: 20
+Port Connectivity: Port Is Connected To A Jack
+Location Part 1: External On Primary Chassis
+Location Part 2: Rear
+
+bad verb (0), 0xEF01871C
+<= Verb 5 =>
+01871C30
+Codec Addres: 0
+Node ID: 24
+Sequence: 0
+Default Association: 3
+
+<= Verb 6 =>
+01871D90
+Codec Addres: 0
+Node ID: 24
+Misc: Jack Detect
+Color: Pink
+
+<= Verb 7 =>
+01871EA1
+Codec Addres: 0
+Node ID: 24
+Connection Type: 1/8" Stereo/Mono
+Default Device: Mic In
+
+<= Verb 8 =>
+01871F01
+Codec Addres: 0
+Node ID: 24
+Port Connectivity: Port Is Connected To A Jack
+Location Part 1: External On Primary Chassis
+Location Part 2: Rear
+
+bad verb (0), 0xEF01971C
+<= Verb 9 =>
+01971C40
+Codec Addres: 0
+Node ID: 25
+Sequence: 0
+Default Association: 4
+
+<= Verb 10 =>
+01971D90
+Codec Addres: 0
+Node ID: 25
+Misc: Jack Detect
+Color: Pink
+
+<= Verb 11 =>
+01971EA1
+Codec Addres: 0
+Node ID: 25
+Connection Type: 1/8" Stereo/Mono
+Default Device: Mic In
+
+<= Verb 12 =>
+01971F01
+Codec Addres: 0
+Node ID: 25
+Port Connectivity: Port Is Connected To A Jack
+Location Part 1: External On Primary Chassis
+Location Part 2: Rear
+
+bad verb (0), 0xEF01B71C
+<= Verb 13 =>
+01B71C20
+Codec Addres: 0
+Node ID: 27
+Sequence: 0
+Default Association: 2
+
+<= Verb 14 =>
+01B71D40
+Codec Addres: 0
+Node ID: 27
+Misc: Jack Detect
+Color: Green
+
+<= Verb 15 =>
+01B71E21
+Codec Addres: 0
+Node ID: 27
+Connection Type: 1/8" Stereo/Mono
+Default Device: HP Out
+
+<= Verb 16 =>
+01B71F01
+Codec Addres: 0
+Node ID: 27
+Port Connectivity: Port Is Connected To A Jack
+Location Part 1: External On Primary Chassis
+Location Part 2: Rear
+
+bad verb (0), 0xEF01D71C
+<= Verb 17 =>
+01D71C60
+Codec Addres: 0
+Node ID: 29
+Sequence: 0
+Default Association: 6
+
+<= Verb 18 =>
+01D71DC0
+Codec Addres: 0
+Node ID: 29
+Misc: Jack Detect
+Color: Reserved
+
+<= Verb 19 =>
+01D71E04
+Codec Addres: 0
+Node ID: 29
+Connection Type: RCA
+Default Device: Line Out
+
+<= Verb 20 =>
+01D71F40
+Codec Addres: 0
+Node ID: 29
+Port Connectivity: No External Port -Or- No physical Connection For Port
+Location Part 1: External On Primary Chassis
+Location Part 2: Not Attached
+
+bad verb (0), 0xEEEEEEEF
