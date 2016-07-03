@@ -1,0 +1,18 @@
+#!/bin/bash
+if [ -f ~/Desktop/codecgraph/acodec_dump.txt ]	
+then
+	echo "Không thấy codec_dump!" > "~/Desktop/Chu y.txt"
+else
+	cd ~/Desktop/codecgraph
+	for currentpatch in ./codec_dump.txt
+	do
+		./codecgraph $currentpatch
+		chmod +x ./convert_hex_to_dec.rb
+		./convert_hex_to_dec.rb codec_dump.txt.svg > ~/Desktop/codecgraph/codec_dump_dec.txt.svg
+	./convert_hex_to_dec.rb codec_dump.txt > ~/Desktop/codecgraph/codec_dump_dec.txt
+	./Verbit codec_dump.txt> finalverbs.txt
+	done
+	cp ./finalverbs.txt ~/Desktop/codecgraph/AnalyseVerbs/finalverbs.txt	
+	cp ~/Desktop/codecgraph/codec_dump_dec.txt ~/Desktop/codecgraph/out/codec_dump_dec.txt
+	cp ~/Desktop/codecgraph/codec_dump_dec.txt.svg ~/Desktop/codecgraph/out/codec_dump_dec.txt.svg
+fi
