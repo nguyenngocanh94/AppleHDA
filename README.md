@@ -22,4 +22,4 @@ Patch from stock AppleHDA.kext
 
 
 More infomation, visit http://www.insanelymac.com/forum/
-
+note :  it just a patch for your codec.
